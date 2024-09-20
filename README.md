@@ -1,4 +1,4 @@
-# Beautè collection
+# swarovski
 
 # Responsive Website Template (HTML, CSS, JavaScript, Bootstrap)
 
